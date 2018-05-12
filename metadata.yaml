@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32767'
     url: http://www.gutenberg.org/2009/agents/32767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44394#The-Boy-Chums-in-the-Gulf-of-Mexicoor-On-a-Dangerous-Cruise-with-the-Greek-Spongers
 gutenberg_issued: '2013-12-09'
 gutenberg_type: Text
 identifiers:
