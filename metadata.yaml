@@ -1,0 +1,36 @@
+_repo: The-Boy-Chums-in-the-Gulf-of-Mexicoor-On-a-Dangerous-Cruise-with-the-Greek-Spongers_44394
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, J. Watson
+    alias: Davis, John Watson
+    birthdate: 1870
+    deathdate: 1959
+    gutenberg_agent_id: '32768'
+    url: http://www.gutenberg.org/2009/agents/32768
+covers:
+- cover_type: archival
+  image_path: 44394-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ely, Wilmer M. (Wilmer Mateo)
+    alias: Ely, Wilmer Mateo
+    gutenberg_agent_id: '32767'
+    url: http://www.gutenberg.org/2009/agents/32767
+description: ''
+gutenberg_issued: '2013-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sponge fisheries -- Florida -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Tarpon Springs (Fla.) -- Juvenile fiction'
+title: 'The Boy Chums in the Gulf of Mexico
+
+  or, On a Dangerous Cruise with the Greek Spongers'
+url: http://www.gutenberg.org/ebooks/44394
